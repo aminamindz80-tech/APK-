@@ -1,0 +1,6 @@
+app/src/main/python/server.py
+app/src/main/assets/erp_static/
+build/
+.gradle/
+app/build/
+local.properties
